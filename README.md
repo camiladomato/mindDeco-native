@@ -1,14 +1,14 @@
 # mindDeco-native
-# MIND DECO :couch: 
+# MIND DECO  🛋️
 Mind Deco es un e-commerce realizado para satisfacer las necesidades de toda persona que le guste comprar cosas de decoracion y uso en el hogar, en el cual encontraran articulos de todo tipo y gusto.
 
 # Trabajo realizado 
 Aplicacion nativa desarrolada para iOS y Android como parte del programa de programacion web Full Stack MERN realizado en MindHub, siguiendo buenas practicas y metodologias agiles para la elaboracion de la misma, consume y realiza peticiones a una API creada por el equipo para crear y obtener articulos.
 
-# Comenzando  :mobile_phone: 
+# Comenzando  👨‍💻 
 # Instalar dependencias para el cliente
 npm install
-# Correr la app :rocket: 
+# Correr la app 🚀 
 expo start
 
 # Visualizar la app 
