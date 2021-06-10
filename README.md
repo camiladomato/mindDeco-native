@@ -26,7 +26,7 @@ funciona de la misma manera que un dispositivo móvil)
 * [MongoDB](https://www.mongodb.com/) - Base de datos
 * [Mongoose](https://mongoosejs.com/) - Framework para modelado de base de datos
 
-# Autores 
+# Autores 🖋️
 * Francesca Pozzolo - [Francesca](https://github.com/francescapozzolo)
 * Mateo Lorenzo - [Mateo](https://github.com/MatuMto)
 * Camila Domato - [Camila](https://github.com/camiladomato)
